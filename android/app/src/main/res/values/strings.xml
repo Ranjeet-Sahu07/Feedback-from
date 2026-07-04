@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">feedback-form</string>
+    <string name="title_activity_main">feedback-form</string>
+    <string name="package_name">com.ranjeet.feedback</string>
+    <string name="custom_url_scheme">com.ranjeet.feedback</string>
+</resources>
